@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/ebt_layout_1px"
+    android:paddingRight="@dimen/ebt_layout_2px" >
+
+    <!-- android:layout_height="@dimen/ebt_menu_child_item_tv_height" -->
+
+    <LinearLayout
+        android:id="@+id/ebt_child_name_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical" >
+        <ImageView
+            android:id="@+id/ebt_child_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/ebt_layout_13px"
+            android:src="@drawable/ebt_drawable_orange_block"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/ebt_child_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/ebt_layout_15px"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/ebt_layout_18px" />
+
+    </LinearLayout>
+
+</RelativeLayout>

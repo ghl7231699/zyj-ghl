@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/ebt_drawable_bg"
+              android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ebt_drawable_zy_top_bar_bg">
+
+        <TextView
+            android:id="@+id/profit_book_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/ebt_layout_22px"
+            android:background="@drawable/ebt_drawable_back"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ebt_drawable_zy_top_logo"/>
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/dp_5"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="@dimen/ebt_layout_menu_center_bg_width"
+            android:layout_height="match_parent"
+            android:background="@drawable/ebt_drawable_menu_bottom_bg"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/ebt_layout_24px"
+            android:paddingLeft="@dimen/ebt_layout_9px"
+            android:paddingRight="@dimen/ebt_layout_24px"
+            android:paddingTop="18dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp"
+                android:background="@drawable/ebt_drawable_menu_top_bg"
+                android:orientation="horizontal"
+                >
+
+                <ExpandableListView
+                    android:id="@+id/profit_book_activity_ev"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:childDivider="@drawable/ebt_drawable_second_level_menu_child_divider"
+                    android:divider="@null"
+                    android:groupIndicator="@null"
+                    android:scrollbars="none">
+                </ExpandableListView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ebt_drawable_content_top_b_bg"
+            android:orientation="vertical">
+
+            <WebView
+                android:id="@+id/profit_book_activity_wv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dp_17"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

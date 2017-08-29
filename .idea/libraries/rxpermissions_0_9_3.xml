@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rxpermissions-0.9.3">
+    <CLASSES>
+      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/67f0f4d441479f4e98ad91d48e06e75a10edc8bc/output/res" />
+      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/67f0f4d441479f4e98ad91d48e06e75a10edc8bc/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tbruyelle.rxpermissions2/rxpermissions/0.9.3/f4d8d2bf07d43f063236f417c5ce2be434c6760/rxpermissions-0.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="okhttputils-1.6.5">
+    <CLASSES>
+      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/4992b6056d26d87cd5cdbb58d66e0d1b6c275abb/output/jars/classes.jar!/" />
+      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/4992b6056d26d87cd5cdbb58d66e0d1b6c275abb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lzy.net/okhttputils/1.6.5/2d1c6b8298f158d5387c8774f5e76d4ef07d4b7c/okhttputils-1.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

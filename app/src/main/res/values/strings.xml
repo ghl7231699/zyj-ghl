@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">展业夹</string>
+    <string name="ebt_string_no_page">此功能正在建设中，敬请期待</string>
+    <string name="ebt_current_position_all">当前位置：全部文件列表</string>
+    <string name="ebt_current_position_profit">当前位置：分红宝典</string>
+    <string name="ebt_current_position_common">当前位置：常用</string>
+    <string name="ebt_current_product_name">产品名称: </string>
+    <string name="ebt_current_product_query">查询</string>
+    <string name="ebt_current_product">产品</string>
+    <string name="ebt_current_product_operation">操作</string>
+    <string name="ebt_current_product_check">查看</string>
+    <string name="ebt_current_product_add">添加</string>
+
+    //异常
+    <string name="error_unkown">未知错误</string>
+    <string name="error_http">网络连接错误</string>
+    <string name="error_system">服务器出错</string>
+    <string name="error_account_freeze">账户被冻结，请联系管理员</string>
+    <string name="error_api_no_perission">调用了无权限的API接口</string>
+    <string name="error_login">用户名或者密码错误</string>
+    <string name="error_http_400">bad request</string>
+    <string name="error_http_404">服务器资源找不到</string>
+    <string name="error_http_500">服务器错误</string>
+    <string name="error_socket_timeout">网络超时</string>
+    <string name="error_socket_unreachable">网络不可用</string>
+    <string name="loading">加载中...</string>
+    <string name="ebt_string_no_click">此功能已开启，请勿重复点击</string>
+</resources>

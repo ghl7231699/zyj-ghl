@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/ebt_layout_10px"
+    android:paddingLeft="@dimen/ebt_layout_10px"
+    android:paddingRight="@dimen/ebt_layout_14px" >
+
+    <RelativeLayout
+        android:id="@+id/ebt_second_level_fl"
+        android:layout_width="@dimen/ebt_layout_menu_bg_width"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal" >
+
+        <!-- android:layout_width="@dimen/ebt_menu_layout_width" -->
+
+        <RelativeLayout
+            android:layout_width="@dimen/ebt_layout_menu_bg_width"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/ebt_layout_14px"
+            android:background="@drawable/ebt_drawable_menu_bottom_bg"
+            android:paddingBottom="@dimen/ebt_layout_24px"
+            android:paddingLeft="@dimen/ebt_layout_9px"
+            android:paddingRight="@dimen/ebt_layout_24px" >
+
+            <LinearLayout
+                android:id="@+id/huanying_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/ebt_layout_61px"
+                android:gravity="center_vertical"
+                android:visibility="invisible" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/ebt_layout_15px"
+                    android:background="@drawable/ebt_drawable_ej_welcome_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/ebt_layout_10px"
+                    android:text="欢迎您" />
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/frameLayout1"
+                android:layout_width="@dimen/ebt_layout_menu_center_bg_width"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/huanying_layout"
+                android:background="@drawable/ebt_drawable_menu_top_bg" >
+
+                <ExpandableListView
+                    android:id="@+id/ebt_second_level_menu_listView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:childDivider="@drawable/ebt_drawable_second_level_menu_child_divider"
+                    android:divider="@null"
+                    android:groupIndicator="@null"
+                    android:scrollbars="none">
+
+                    <!-- android:divider="@drawable/ebt_drawable_menu_list_divier" -->
+                </ExpandableListView>
+            </FrameLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/ebt_layout_2px"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/ebt_layout_15px"
+                android:background="@drawable/ebt_drawable_ej_welcome_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/ebt_layout_12px"
+                android:text="欢迎您"
+                android:textColor="@color/ebt_ebt_second_level_color" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/layout_content_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/ebt_layout_14px"
+        android:background="@drawable/ebt_drawable_content_top_b_bg">
+
+        <FrameLayout
+            android:id="@+id/layout_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/ebt_layout_26px"
+            android:layout_marginRight="@dimen/ebt_layout_15px">
+        </FrameLayout>
+    </FrameLayout>
+
+</LinearLayout>

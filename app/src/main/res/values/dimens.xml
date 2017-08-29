@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ebt_layout_1px">1px</dimen>
+    <dimen name="ebt_layout_2px">2px</dimen>
+    <dimen name="ebt_layout_3px">3px</dimen>
+    <dimen name="ebt_layout_5px">5px</dimen>
+    <dimen name="ebt_layout_9px">9px</dimen>
+    <dimen name="ebt_layout_10px">10px</dimen>
+    <dimen name="ebt_layout_12px">12px</dimen>
+    <dimen name="ebt_layout_13px">13px</dimen>
+    <dimen name="ebt_layout_14px">14px</dimen>
+    <dimen name="ebt_layout_15px">15px</dimen>
+    <dimen name="ebt_layout_16px">16px</dimen>
+    <dimen name="ebt_layout_18px">18px</dimen>
+    <dimen name="ebt_layout_22px">22px</dimen>
+    <dimen name="ebt_layout_24px">24px</dimen>
+    <dimen name="ebt_layout_26px">26px</dimen>
+    <dimen name="ebt_layout_30px">30px</dimen>
+    <dimen name="ebt_layout_52px">52px</dimen>
+    <dimen name="ebt_layout_61px">61px</dimen>
+    <dimen name="ebt_layout_90px">90px</dimen>
+    <dimen name="ebt_layout_76px">76px</dimen>
+    <dimen name="ebt_layout_75px">75px</dimen>
+    <dimen name="ebt_layout_menu_center_bg_width">211px</dimen>
+    <dimen name="ebt_layout_menu_bg_width">240px</dimen>
+    <!--dp-->
+    <dimen name="dp_1">2dp</dimen>
+    <dimen name="dp_2">4dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_5">10dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_7">11dp</dimen>
+    <dimen name="dp_8">16dp</dimen>
+    <dimen name="dp_9">18dp</dimen>
+    <dimen name="dp_10">20dp</dimen>
+    <dimen name="dp_11">22dp</dimen>
+    <dimen name="dp_12">24dp</dimen>
+    <dimen name="dp_13">26dp</dimen>
+    <dimen name="dp_17">34dp</dimen>
+    <dimen name="dp_18">36dp</dimen>
+    <dimen name="dp_20">40dp</dimen>
+    <dimen name="dp_23">36dp</dimen>
+    <dimen name="dp_25">50dp</dimen>
+    <dimen name="dp_28">56dp</dimen>
+    <dimen name="dp_29">57dp</dimen>
+    <dimen name="dp_30">60dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_33">66dp</dimen>
+    <dimen name="dp_40">60dp</dimen>
+    <dimen name="dp_50">100dp</dimen>
+    <dimen name="dp_55">110dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_78">156dp</dimen>
+    <dimen name="dp_103">137dp</dimen>
+    <dimen name="dp_141">188dp</dimen>
+    <dimen name="dp_200">400dp</dimen>
+    <!--sp-->
+
+
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">18sp</dimen>
+    <dimen name="sp_18">19sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+</resources>

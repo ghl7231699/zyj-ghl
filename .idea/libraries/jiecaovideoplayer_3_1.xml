@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jiecaovideoplayer-3.1">
+    <CLASSES>
+      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/a41e46cf050f1be97789e0b6f2c8fa24401893cf/output/jars/classes.jar!/" />
+      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/a41e46cf050f1be97789e0b6f2c8fa24401893cf/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/fm.jiecao/jiecaovideoplayer/3.1/b989863837775679a70446530e9b57b3f0e37359/jiecaovideoplayer-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

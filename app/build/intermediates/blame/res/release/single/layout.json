@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\fm_menu_ui.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\fm_menu_ui.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\jc_volume_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\a41e46cf050f1be97789e0b6f2c8fa24401893cf\\output\\res\\layout\\jc_volume_dialog.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\quick_view_load_more.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\ab802ffceb637e8579b2c8bbb72f454dad1dfb6c\\output\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ex_lv_menu_group_item.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ex_lv_menu_group_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\jc_layout_standard.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\a41e46cf050f1be97789e0b6f2c8fa24401893cf\\output\\res\\layout\\jc_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\product_fragment_item_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\product_fragment_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\profit_book_activity_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\profit_book_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_zyj_video_activity_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_zyj_video_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\profit_book_menu_item.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\profit_book_menu_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_zyj_pdf_activity_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_zyj_pdf_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\evp_include_controls.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\80039e0ed80a7ceca6e6dd21e0816041c73f20e5\\output\\res\\layout\\evp_include_controls.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_zyj_product_fragment_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_zyj_product_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_zyj_add_product_fragment_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_zyj_add_product_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ac_work_space.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ac_work_space.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\add_product_fragment_item_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\add_product_fragment_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_zyj_ppt_activity_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_zyj_ppt_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_layout_work_space_menu_item.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_layout_work_space_menu_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\jc_progress_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\a41e46cf050f1be97789e0b6f2c8fa24401893cf\\output\\res\\layout\\jc_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ex_lv_menu_child_item.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ex_lv_menu_child_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\profit_book_child_item.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\profit_book_child_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\evp_include_progress.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\80039e0ed80a7ceca6e6dd21e0816041c73f20e5\\output\\res\\layout\\evp_include_progress.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\ebt_zyj_common_fragment_layout.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\ebt_zyj_common_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\profit_book_parent_item.xml",
+        "source": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\src\\main\\res\\layout\\profit_book_parent_item.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\jc_layout_base.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\a41e46cf050f1be97789e0b6f2c8fa24401893cf\\output\\res\\layout\\jc_layout_base.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\26c245e62385332e6b47665cbbbe4f85ddc1a06b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\adt-bundle-windows-x86_64-20140702\\adt-bundle-windows-x86_64-20140702\\sdk\\.android\\build-cache\\676d0d7facff559b7cb8114d2a532f13fff18d07\\output\\res\\layout\\abc_action_mode_bar.xml"
+    }
+]

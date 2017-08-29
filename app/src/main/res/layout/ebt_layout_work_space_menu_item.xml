@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:paddingTop="@dimen/ebt_layout_2px">
+
+    <LinearLayout
+        android:id="@+id/ebt_work_space_ll"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ebt_layout_76px"
+        android:layout_marginBottom="@dimen/ebt_layout_3px"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/ebt_layout_10px"
+        android:paddingTop="@dimen/ebt_layout_14px">
+
+        <ImageView
+            android:id="@+id/ebt_work_space_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/ebt_work_space_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ebt_layout_16px"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@drawable/ebt_drawable_work_space_menu_line_icon"/>
+
+</FrameLayout>

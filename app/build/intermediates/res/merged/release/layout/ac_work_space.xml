@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/ebt_drawable_bg"
+                android:orientation="vertical">
+
+    <!-- 工作区xml布局界面 -->
+
+    <FrameLayout
+        android:id="@+id/FrameLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/work_space_title"
+        android:layout_marginTop="-5dp"
+        android:background="@drawable/ebt_drawable_work_space_menu_bg"
+        android:paddingTop="5dp">
+
+        <!-- android:layout_width="@dimen/ebt_workspace_left_menu_width" -->
+
+        <ListView
+            android:id="@+id/ebt_work_space_menu_lv"
+            android:layout_width="@dimen/ebt_layout_90px"
+            android:layout_height="match_parent"
+            android:divider="@android:color/transparent"
+            android:listSelector="@android:color/transparent"
+            android:scrollbars="none"/>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/workspace_fragment_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/FrameLayout2"
+        android:layout_toRightOf="@+id/FrameLayout2"/>
+
+    <FrameLayout
+        android:id="@+id/work_space_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ebt_layout_75px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ebt_drawable_zy_top_bar_bg">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ebt_drawable_zy_top_logo"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/ebt_workspace_close_app_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:gravity="center"
+            android:paddingLeft="@dimen/ebt_layout_15px"
+            android:paddingRight="@dimen/ebt_layout_22px">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="退出"
+                android:textColor="@color/white"
+                android:textSize="@dimen/ebt_layout_22px"/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/change_rbt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/ebt_layout_22px"
+                android:background="@drawable/ebt_drawable_home_icon"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>

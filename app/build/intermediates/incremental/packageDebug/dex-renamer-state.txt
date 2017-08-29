@@ -1,0 +1,7 @@
+#Mon Aug 28 09:53:52 CST 2017
+base.0=E\:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d6788a9f665a4db7fdc13e76d20fdece756ad5e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d837faef17e1dc7bf246e70bc6544dcb3ab48fd\\classes.dex
+base.1=E\:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9d837faef17e1dc7bf246e70bc6544dcb3ab48fd
+file.0=E\:\\XinHuaEBT2.0\\NCIEBTZYJ(Studio)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2d6788a9f665a4db7fdc13e76d20fdece756ad5e\\classes.dex

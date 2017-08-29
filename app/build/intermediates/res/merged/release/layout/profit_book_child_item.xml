@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/ebt_layout_1px"
+                android:paddingRight="@dimen/ebt_layout_2px">
+
+    <LinearLayout
+        android:id="@+id/profit_book_child_item_ll"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_25"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/profit_book_child_item_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_17"
+            android:gravity="center_vertical"
+            android:text="基础知识"
+            android:textSize="@dimen/ebt_layout_18px"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
