@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="rxbinding-2.0.0">
     <CLASSES>
-      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/827b3b9393e56f63ef1be852535a2be55ef08960/output/res" />
-      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/827b3b9393e56f63ef1be852535a2be55ef08960/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f441a794365c10988c3182dd5e8ff6df72d8a264/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f441a794365c10988c3182dd5e8ff6df72d8a264/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

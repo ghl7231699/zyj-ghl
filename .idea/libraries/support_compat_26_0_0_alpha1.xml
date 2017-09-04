@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="support-compat-26.0.0-alpha1">
     <CLASSES>
-      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/e7db3029a1f28c928779afd699c36ce74c03f1fd/output/jars/classes.jar!/" />
-      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/e7db3029a1f28c928779afd699c36ce74c03f1fd/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/91c847f58d46815f6e061b2605128368590e4e93/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/91c847f58d46815f6e061b2605128368590e4e93/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

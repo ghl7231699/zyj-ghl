@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="runner-0.5">
     <CLASSES>
-      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/5367fb2ec68469af3aeca8ce106da10a9d1ac6c3/output/res" />
-      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/5367fb2ec68469af3aeca8ce106da10a9d1ac6c3/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d24696a74576cb83b7fd31b52e3adf5bee79040d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d24696a74576cb83b7fd31b52e3adf5bee79040d/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

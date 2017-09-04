@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="library-1.1.7">
     <CLASSES>
-      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/18e1edae11c3f3896095d484a551fa0f4836574e/output/jars/classes.jar!/" />
-      <root url="file://D:/adt-bundle-windows-x86_64-20140702/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/18e1edae11c3f3896095d484a551fa0f4836574e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/52003d3d751982d61fd8a234cef28949c5c652bb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/52003d3d751982d61fd8a234cef28949c5c652bb/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

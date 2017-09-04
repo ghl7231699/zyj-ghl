@@ -27,6 +27,7 @@ import org.litepal.crud.DataSupport;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -324,8 +325,13 @@ public class DataRepository {
                         if (mFileDetailses.size() > 0) {
                             switch (t) {
                                 case 0:
-                                    for (CommonFileDetailed f : mFileDetailses) {
-                                        f.delete();
+//                                    for (CommonFileDetailed f : mFileDetailses) {
+//                                        f.delete();
+//                                    }
+                                    Iterator<CommonFileDetailed> it = mFileDetailses.iterator();
+                                    while (it.hasNext()) {
+                                        CommonFileDetailed fileDetailed = it.next();
+                                        fileDetailed.delete();
                                     }
                                     break;
 //                                case 1:
